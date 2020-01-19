@@ -1,5 +1,11 @@
 # three.js 创建简单场景
 
+
+##效果
+
+![](https://img-blog.csdn.net/20180119142734733?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY2NfZnlz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
 ##主要使用的three基础几何形状
 
 CylinderGeometry 柱体类
@@ -23,12 +29,4 @@ radius 是半径； segmentsWidth 表示经度上的切片数； segmentsHei
 
 
  用CylinderGeometry、SphereGeometry 创建花朵，以及基本的树枝。主要用到了旋转、缩放和平移。由于要注意创建的柱状体的组合，需要计算在x、y、z方向的平移位置。
-
-
-
-##效果
-
-![](https://img-blog.csdn.net/20180119142734733?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY2NfZnlz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-
 
